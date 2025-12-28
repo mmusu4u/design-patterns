@@ -1,0 +1,6 @@
+# Force Swift as repo language
+*.swift linguist-language=Swift
+
+# Exclude Python from language stats
+*.py linguist-vendored
+
